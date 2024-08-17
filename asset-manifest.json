@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dogs-app/static/css/main.c89a02df.css",
-    "main.js": "/dogs-app/static/js/main.b7f6fc44.js",
+    "main.js": "/dogs-app/static/js/main.5e05719c.js",
     "static/js/366.2547ec1c.chunk.js": "/dogs-app/static/js/366.2547ec1c.chunk.js",
     "static/js/805.574f8a36.chunk.js": "/dogs-app/static/js/805.574f8a36.chunk.js",
     "static/js/834.8cb1965a.chunk.js": "/dogs-app/static/js/834.8cb1965a.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/dummy_user_image.png": "/dogs-app/static/media/dummy_user_image.75a04487ce5e21dc1585.png",
     "index.html": "/dogs-app/index.html",
     "main.c89a02df.css.map": "/dogs-app/static/css/main.c89a02df.css.map",
-    "main.b7f6fc44.js.map": "/dogs-app/static/js/main.b7f6fc44.js.map",
+    "main.5e05719c.js.map": "/dogs-app/static/js/main.5e05719c.js.map",
     "366.2547ec1c.chunk.js.map": "/dogs-app/static/js/366.2547ec1c.chunk.js.map",
     "805.574f8a36.chunk.js.map": "/dogs-app/static/js/805.574f8a36.chunk.js.map",
     "834.8cb1965a.chunk.js.map": "/dogs-app/static/js/834.8cb1965a.chunk.js.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.c89a02df.css",
-    "static/js/main.b7f6fc44.js"
+    "static/js/main.5e05719c.js"
   ]
 }
