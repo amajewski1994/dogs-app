@@ -4,7 +4,7 @@ import { fas } from '@fortawesome/free-solid-svg-icons';
 import { far } from '@fortawesome/free-regular-svg-icons';
 import { faFacebook, faInstagram, faTwitter, faFontAwesome } from '@fortawesome/free-brands-svg-icons';
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import LoadingSpinner from './shared/LoadingSpinner';
 
 const HomePage = React.lazy(() => import('./components/HomePage'));
