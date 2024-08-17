@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dogs-app/static/css/main.c89a02df.css",
+    "main.js": "/dogs-app/static/js/main.b7f6fc44.js",
+    "static/js/366.2547ec1c.chunk.js": "/dogs-app/static/js/366.2547ec1c.chunk.js",
+    "static/js/805.574f8a36.chunk.js": "/dogs-app/static/js/805.574f8a36.chunk.js",
+    "static/js/834.8cb1965a.chunk.js": "/dogs-app/static/js/834.8cb1965a.chunk.js",
+    "static/js/376.45860b77.chunk.js": "/dogs-app/static/js/376.45860b77.chunk.js",
+    "static/js/200.1c4b535d.chunk.js": "/dogs-app/static/js/200.1c4b535d.chunk.js",
+    "static/js/49.b34e78b7.chunk.js": "/dogs-app/static/js/49.b34e78b7.chunk.js",
+    "static/js/635.dce0fe63.chunk.js": "/dogs-app/static/js/635.dce0fe63.chunk.js",
+    "static/js/78.d39c0e3a.chunk.js": "/dogs-app/static/js/78.d39c0e3a.chunk.js",
+    "static/js/819.7af78eca.chunk.js": "/dogs-app/static/js/819.7af78eca.chunk.js",
+    "static/js/412.4192d0b4.chunk.js": "/dogs-app/static/js/412.4192d0b4.chunk.js",
+    "static/js/865.bd97bfb1.chunk.js": "/dogs-app/static/js/865.bd97bfb1.chunk.js",
+    "static/media/background-992858_1280.png": "/dogs-app/static/media/background-992858_1280.129a0a1b99e734842278.png",
+    "static/media/dummy_dog_0.png": "/dogs-app/static/media/dummy_dog_0.0ff5d5127512694ba430.png",
+    "static/media/dummy_dog_1.png": "/dogs-app/static/media/dummy_dog_1.42ef9e0b834e0c7ebca8.png",
+    "static/media/dummy_dog_2.png": "/dogs-app/static/media/dummy_dog_2.604dad20e426dd368e6d.png",
+    "static/media/blank_dog.png": "/dogs-app/static/media/blank_dog.91b301549b8440b33834.png",
+    "static/media/dog_0.jpg": "/dogs-app/static/media/dog_0.bd4ef99cb262a115a8b0.jpg",
+    "static/media/dummy_user_image.png": "/dogs-app/static/media/dummy_user_image.75a04487ce5e21dc1585.png",
+    "index.html": "/dogs-app/index.html",
+    "main.c89a02df.css.map": "/dogs-app/static/css/main.c89a02df.css.map",
+    "main.b7f6fc44.js.map": "/dogs-app/static/js/main.b7f6fc44.js.map",
+    "366.2547ec1c.chunk.js.map": "/dogs-app/static/js/366.2547ec1c.chunk.js.map",
+    "805.574f8a36.chunk.js.map": "/dogs-app/static/js/805.574f8a36.chunk.js.map",
+    "834.8cb1965a.chunk.js.map": "/dogs-app/static/js/834.8cb1965a.chunk.js.map",
+    "376.45860b77.chunk.js.map": "/dogs-app/static/js/376.45860b77.chunk.js.map",
+    "200.1c4b535d.chunk.js.map": "/dogs-app/static/js/200.1c4b535d.chunk.js.map",
+    "49.b34e78b7.chunk.js.map": "/dogs-app/static/js/49.b34e78b7.chunk.js.map",
+    "635.dce0fe63.chunk.js.map": "/dogs-app/static/js/635.dce0fe63.chunk.js.map",
+    "78.d39c0e3a.chunk.js.map": "/dogs-app/static/js/78.d39c0e3a.chunk.js.map",
+    "819.7af78eca.chunk.js.map": "/dogs-app/static/js/819.7af78eca.chunk.js.map",
+    "412.4192d0b4.chunk.js.map": "/dogs-app/static/js/412.4192d0b4.chunk.js.map",
+    "865.bd97bfb1.chunk.js.map": "/dogs-app/static/js/865.bd97bfb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89a02df.css",
+    "static/js/main.b7f6fc44.js"
+  ]
+}
