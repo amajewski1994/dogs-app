@@ -88,9 +88,11 @@ const Navigation = () => {
       ></Modal>
     <nav className='navigation'>
         <Link to='/'><Image src={dogBlank} alt='navigation-logo' className='navigation-logo' size='medium' /></Link>
-        <Link to='/'><div className='navigation-title'>
+        <div className='navigation-title'>
+        <Link to='/'>
           <h1>DOGGS APP</h1>
-        </div></Link>
+          </Link>
+        </div>
         <div className='navigation-menu'>
             {windowSize.width <= 1050 ? <>
             <FontAwesomeIcon onClick={hamburgerClickHandler} icon="fa-solid fa-bars" />

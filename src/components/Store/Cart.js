@@ -124,9 +124,9 @@ const Cart = () => {
                     <div className='cart-info-amount'>
                         TOTAL: <span>{totalAmount} $</span>
                     </div>
-                    <div className='cart-info-button'>
+                    {cartProducts.length > 0 && <div className='cart-info-button'>
                         <Button>PAY</Button>
-                    </div>
+                    </div>}
                 </div>
             </div>
         </Card>

@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Button from '../shared/Button';
 import dummyDog0 from '../images/dummy_dog_0.png';
 import dummyDog1 from '../images/dummy_dog_1.png';
-import dummyDog2 from '../images/dummy_dog_2.png';
+import dummyDog4 from '../images/dummy_dog_4.png';
 
 import { Link } from "react-router-dom";
 
@@ -12,7 +12,7 @@ const HomePage = () => {
     <div className='home'>
         <div className='home-header'>
           <div className='home-header-image header-image-left'>
-            <img src={dummyDog2} alt='homepage-dog' />
+            <img src={dummyDog4} alt='homepage-dog' />
           </div>
           
           <div className='home-header-info'>
